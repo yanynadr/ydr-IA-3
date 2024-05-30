@@ -1,0 +1,35 @@
+
+
+.cont{
+    background-color: lightsalmon;
+
+}
+
+
+.animate__animated{
+    justify-content: center;
+     display: flex;
+     background: linear-gradient(90deg, rgb(167, 103, 167),rgb(1, 1, 37));
+     border-bottom: 4px solid rgb(88, 11, 88);
+     color: rgb(13, 14, 13);
+  }
+
+
+
+  
+  .antonio-uniquifier {
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    justify-content: center;
+    display: flex;
+
+  }
+  
+ .descrip{
+    justify-content: center;
+    display: flex;
+    color: darkslateblue;
+
+ }

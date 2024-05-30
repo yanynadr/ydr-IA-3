@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, Helvetica;
+    background:-webkit-linear-gradient(90deg, #f3dfe3 10%, #dadbeb 90%);
+ 
+ }
+.noti{
+    color: red;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 20px);
+}
+.card{
+    background: #4a9bc0;
+    border-radius: 7px;
+    width: 400px;
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.input{
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    background: #1c1186;
+    color: rgb(132, 248, 233);
+    border: none;
+    cursor: pointer;
+}
